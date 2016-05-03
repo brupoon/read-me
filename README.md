@@ -18,3 +18,5 @@ SlYIMGliuyBtL1M4rArhMBI4AYaJPg6t5rxEpq9nutxFRAzOH4RSinb+wJJ3DoM=
 =t00N
 
 -----END PGP SIGNATURE-----
+
+(signed by verified email albatrossian@outlook.com used to sign commits in repositories like http://github.com/brunston/stellarpyl)
