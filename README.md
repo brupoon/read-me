@@ -4,8 +4,11 @@
 Hash: SHA512
 
 Brunston Poon's GitHub username is @brunston. This message has been updated to reflect the new key he uses at Keybase.
+
 -----BEGIN PGP SIGNATURE-----
+
 Version: Keybase OpenPGP v2.0.66
+
 Comment: https://keybase.io/crypto
 
 wsFcBAABCgAGBQJY0KoKAAoJENUBJULF5RIk0I0QAKbCqAUh2HIHDudqwjI7PZNV
@@ -21,6 +24,7 @@ v/+6MB+HQXGMvSEDt0mMlXkxN5tv9g1SZ4w7khaB7rESzni/V4pIcWKbxM1AYfRL
 xFxjsSDCIrW9TprdvRNlEJfBnqotf2gkkxNNhIkRbI+zaa85KZwMCb9JIToMUiKw
 +5nit4vG0I1iEQNB3C7l
 =jTul
+
 -----END PGP SIGNATURE-----
 
 
